@@ -7,7 +7,7 @@ Responsive Design: React's component reusability and responsive design capabilit
 
 Documentation and Learning Resources: React has extensive documentation and numerous learning resources, making it accessible to both beginners and experienced developers.
 
-**Install & Start**
+# Install & Start
 
 Run the following two lines of code in frontend/.
 
