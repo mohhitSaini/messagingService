@@ -14,3 +14,8 @@ Run the following two lines of code in frontend/.
 **npm install**
 
 **npm run start**
+
+
+IN case of some discripencies try to run
+
+nmp audit fix --force
