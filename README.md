@@ -2,7 +2,7 @@
  
  **IIT MANDI**
  
- **Term1_Deliverable of I'mbesideyou's 2024 Summer Internship_SDE**
+**Term1_Deliverable of I'mbesideyou's 2024 Summer Internship_SDE**
 ----------------------------------------------------------------------------------------------------------------
 
 # messagingServiceApp
