@@ -3,7 +3,7 @@ React.js
 
 **Install & Start**
 
-Run the following two lines of code in client-react/.
+Run the following two lines of code in frontend/.
 
 **npm install**
 
