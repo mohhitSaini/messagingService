@@ -16,4 +16,11 @@ then run the backend server using
 
 **python manage.py runserver 0.0.0.0:3001**
 
+**Setup for .env file**
+
+Go inside server older inside backend and create a .env file with the following lines
+
+CHAT_ENGINE_PROJECT_ID=d88d8e80-7820-48b8-aec9-c9cdb1d419d2
+CHAT_ENGINE_PRIVATE_KEY=bfef9525-df62-4cd0-beb2-90a10e015ad8
+
 
