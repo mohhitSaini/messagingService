@@ -6,6 +6,6 @@ First install the requirements using the command
 
 then run the backend server using 
 
-** python manage.py runserver python manage.py runserver 0.0.0.0:3001**
+**python manage.py runserver python manage.py runserver 0.0.0.0:3001**
 
 
