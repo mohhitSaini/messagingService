@@ -18,4 +18,4 @@ Run the following two lines of code in frontend/.
 
 IN case of some discripencies try to run
 
-nmp audit fix --force
+npm audit fix --force
