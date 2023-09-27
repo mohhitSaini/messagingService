@@ -1,4 +1,6 @@
-**ReadMe**
+# Technolgy/Frameword used :
+django rest framework
+
 ## Install & Start
 First install the requirements using the command 
 
