@@ -1,6 +1,6 @@
 # Mohit Kumar Saini 
 # IIT MANDI
-# Term1_Deliverable_Application of I'mbesideyou's 2024 Summer Internship_SDE
+# Term1_Deliverable of I'mbesideyou's 2024 Summer Internship_SDE
 
 
 # messagingService
